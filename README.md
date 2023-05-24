@@ -26,4 +26,4 @@ https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
 
 Open any IDE that can code in python. Now, in place of the "pd.read_csv" function of pandas in the code, just add the path of the dataset of your local machine after downloading.
-Once doanloaded simply run the project.
+Once downloaded, simply run the your python file.
